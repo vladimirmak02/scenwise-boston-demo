@@ -1,0 +1,829 @@
+{
+    "nodes": [
+        {
+            "id": "isolatorweg",
+            "name": "Isolatorweg"
+        },
+        {
+            "id": "de-vlugtlaan",
+            "name": "De Vlugtlaan"
+        },
+        {
+            "id": "jan-van-galenstraat",
+            "name": "Jan Van Galenstraat"
+        },
+        {
+            "id": "postjesweg",
+            "name": "Postjesweg"
+        },
+        {
+            "id": "lelylaan",
+            "name": "Lelylaan"
+        },
+        {
+            "id": "heemstedestraat",
+            "name": "Heemstedestraat"
+        },
+        {
+            "id": "henk-sneevlietweg",
+            "name": "Henk Sneevlietweg"
+        },
+        {
+            "id": "amstelveenseweg",
+            "name": "Amstelveenseweg"
+        },
+        {
+            "id": "zuid",
+            "name": "Zuid"
+        },
+        {
+            "id": "rai-green",
+            "name": "RAI"
+        },
+        {
+            "id": "overamstel",
+            "name": "Overamstel"
+        },
+        {
+            "id": "van-der-madeweg",
+            "name": "Van Der Madeweg"
+        },
+        {
+            "id": "duivendrecht-green",
+            "name": "Duivendrecht"
+        },
+        {
+            "id": "strandvliet-green",
+            "name": "Strandvliet"
+        },
+        {
+            "id": "bijlmer-arena-green",
+            "name": "Bijlmer Arena"
+        },
+        {
+            "id": "bullewijk-green",
+            "name": "Bullewijk"
+        },
+        {
+            "id": "holendrecht-green",
+            "name": "Holendrecht"
+        },
+        {
+            "id": "reigersbos-green",
+            "name": "Reigersbos"
+        },
+        {
+            "id": "gein-green",
+            "name": "Gein"
+        },
+        {
+            "id": "noord",
+            "name": "Noord"
+        },
+        {
+            "id": "noorderpark",
+            "name": "Noorderpark"
+        },
+        {
+            "id": "centraal-station",
+            "name": "Centraal Station"
+        },
+        {
+            "id": "rokin",
+            "name": "Rokin"
+        },
+        {
+            "id": "vijzelgracht",
+            "name": "Vijzelgracht"
+        },
+        {
+            "id": "de-pijp",
+            "name": "De Pijp"
+        },
+        {
+            "id": "europaplein",
+            "name": "Europaplein"
+        },
+        {
+            "id": "nieuwmarkt-yellow",
+            "name": "Nieuwmarkt"
+        },
+        {
+            "id": "waterlooplein-yellow",
+            "name": "Waterlooplein"
+        },
+        {
+            "id": "weesperplein-yellow",
+            "name": "Weesperplein"
+        },
+        {
+            "id": "wibautstraat-yellow",
+            "name": "Wibautstraat"
+        },
+        {
+            "id": "amstel-yellow",
+            "name": "Amstel"
+        },
+        {
+            "id": "spaklerweg",
+            "name": "Spaklerweg"
+        },
+        {
+            "id": "veensepolder",
+            "name": "Veensepolder"
+        },
+        {
+            "id": "diemen-zuid",
+            "name": "Diemen Zuid"
+        },
+        {
+            "id": "verrijn-stuartweg",
+            "name": "Verrijn Stuartweg"
+        },
+        {
+            "id": "ganzenhoef",
+            "name": "Ganzenhoef"
+        },
+        {
+            "id": "kraaiennest",
+            "name": "Kraaiennest"
+        },
+        {
+            "id": "gaasperplas",
+            "name": "Gaasperplas"
+        },
+        {
+            "id": "de-boelelaan",
+            "name": "De Boelelaan / VU"
+        },
+        {
+            "id": "a-j-ernststraat",
+            "name": "A.J. Ernststraat"
+        },
+        {
+            "id": "van-boshuizenstraat",
+            "name": "Van Boshuizenstraat"
+        },
+        {
+            "id": "uilenstede",
+            "name": "Uilenstede"
+        },
+        {
+            "id": "kronenburg",
+            "name": "Kronenburg"
+        },
+        {
+            "id": "zonnestein",
+            "name": "Zonnestein"
+        },
+        {
+            "id": "onderuit",
+            "name": "Onderuit"
+        },
+        {
+            "id": "oranjebaan",
+            "name": "Oranjebaan"
+        },
+        {
+            "id": "amstelveen-centrum",
+            "name": "Amstelveen Centrum"
+        },
+        {
+            "id": "ouderkerkerlaan",
+            "name": "Ouderkerkerlaan"
+        },
+        {
+            "id": "sportlaan",
+            "name": "SportLaan"
+        },
+        {
+            "id": "marne",
+            "name": "Marne"
+        },
+        {
+            "id": "gondel",
+            "name": "Gondel"
+        },
+        {
+            "id": "meent",
+            "name": "Meent"
+        },
+        {
+            "id": "brink",
+            "name": "Brink"
+        },
+        {
+            "id": "poortwachter",
+            "name": "Poortwachter"
+        },
+        {
+            "id": "spinnerij",
+            "name": "Spinnerij"
+        },
+        {
+            "id": "sacharovlaan",
+            "name": "Sacharovlaan"
+        },
+        {
+            "id": "westwijk",
+            "name": "Westwijk"
+        },
+        {
+            "id": "van-der-madeweg",
+            "name": "Van Der Madeweg"
+        },
+        {
+            "id": "duivendrecht-yellow",
+            "name": "Duivendrecht"
+        },
+        {
+            "id": "strandvliet-yellow",
+            "name": "Strandvliet"
+        },
+        {
+            "id": "bijlmer-arena-yellow",
+            "name": "Bijlmer Arena"
+        },
+        {
+            "id": "bullewijk-yellow",
+            "name": "Bullewijk"
+        },
+        {
+            "id": "holendrecht-yellow",
+            "name": "Holendrecht"
+        },
+        {
+            "id": "reigersbos-yellow",
+            "name": "Reigersbos"
+        },
+        {
+            "id": "gein-yellow",
+            "name": "Gein"
+        },
+        {
+            "id": "nieuwmarkt-red",
+            "name": "Nieuwmarkt"
+        },
+        {
+            "id": "waterlooplein-red",
+            "name": "Waterlooplein"
+        },
+        {
+            "id": "weesperplein-red",
+            "name": "Weesperplein"
+        },
+        {
+            "id": "wibautstraat-red",
+            "name": "Wibautstraat"
+        },
+        {
+            "id": "amstel-red",
+            "name": "Amstel"
+        },
+        {
+            "id": "nieuwmarkt-orange",
+            "name": "Nieuwmarkt"
+        },
+        {
+            "id": "waterlooplein-orange",
+            "name": "Waterlooplein"
+        },
+        {
+            "id": "weesperplein-orange",
+            "name": "Weesperplein"
+        },
+        {
+            "id": "wibautstraat-orange",
+            "name": "Wibautstraat"
+        },
+        {
+            "id": "amstel-orange",
+            "name": "Amstel"
+        },
+        {
+            "id": "rai-orange",
+            "name": "Rai"
+        }
+    ],
+    "links": [
+        { 
+            "source": 0,
+            "target": 1,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 16,
+            "target": 17,
+            "line": "green",
+            "color": "00FF00"
+        },
+        {
+            "source": 17,
+            "target": 18,
+            "line": "green",
+            "color": "00FF00"
+        },
+
+
+
+
+        {
+            "source": 19,
+            "target": 20,
+            "line": "blue",
+            "color": "0000FF"
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "line": "blue",
+            "color": "0000FF"
+        },
+        {
+            "source": 21,
+            "target": 22,
+            "line": "blue",
+            "color": "0000FF"
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "line": "blue",
+            "color": "0000FF"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "line": "blue",
+            "color": "0000FF"
+        },
+        {
+            "source": 24,
+            "target": 25,
+            "line": "blue",
+            "color": "0000FF"
+        },
+        {
+            "source": 25,
+            "target": 8,
+            "line": "blue",
+            "color": "0000FF"
+        },
+
+
+
+
+        {
+            "source": 21,
+            "target": 26,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 26,
+            "target": 21,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 26,
+            "target": 27,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 27,
+            "target": 26,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 28,
+            "target": 27,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 28,
+            "target": 29,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 30,
+            "target": 31,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 31,
+            "target": 30,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 31,
+            "target": 11,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 11,
+            "target": 31,
+            "line": "yellow-orange-red",
+            "color": "FFA500"
+        },
+        {
+            "source": 31,
+            "target": 10,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 11,
+            "target": 32,
+            "line": "red",
+            "color": "FF0000"
+        },
+        {
+            "source": 32,
+            "target": 33,
+            "line": "red",
+            "color": "FF0000"
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "line": "red",
+            "color": "FF0000"
+        },
+        {
+            "source": 34,
+            "target": 35,
+            "line": "red",
+            "color": "FF0000"
+        },
+        {
+            "source": 35,
+            "target": 36,
+            "line": "red",
+            "color": "FF0000"
+        },
+        {
+            "source": 36,
+            "target": 37,
+            "line": "red",
+            "color": "FF0000"
+        },
+        {
+            "source": 8,
+            "target": 38,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 38,
+            "target": 39,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 39,
+            "target": 40,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 40,
+            "target": 41,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 41,
+            "target": 42,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 42,
+            "target": 43,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 43,
+            "target": 44,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 44,
+            "target": 45,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 45,
+            "target": 46,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 46,
+            "target": 47,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 47,
+            "target": 48,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 48,
+            "target": 49,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 49,
+            "target": 50,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 50,
+            "target": 51,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 51,
+            "target": 52,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 52,
+            "target": 53,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 53,
+            "target": 54,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 54,
+            "target": 55,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 55,
+            "target": 56,
+            "line": "orange",
+            "color": "FFA500"
+        },
+        {
+            "source": 57,
+            "target": 58,
+            "line": "yellow",
+            "color": "#FFFF00"
+        },
+        {
+            "source": 58,
+            "target": 59,
+            "line": "yellow",
+            "color": "#FFFF00"
+        },
+        {
+            "source": 59,
+            "target": 60,
+            "line": "yellow",
+            "color": "#FFFF00"
+        },
+        {
+            "source": 60,
+            "target": 61,
+            "line": "yellow",
+            "color": "#FFFF00"
+        },
+        {
+            "source": 61,
+            "target": 62,
+            "line": "yellow",
+            "color": "#FFFF00"
+        },
+        {
+            "source": 62,
+            "target": 63,
+            "line": "yellow",
+            "color": "#FFFF00"
+        },
+        {
+            "source": 63,
+            "target": 64,
+            "line": "yellow",
+            "color": "#FFFF00"
+        },
+        {
+            "source": 21,
+            "target": 65,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 65,
+            "target": 66,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 66,
+            "target": 67,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 67,
+            "target": 68,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 68,
+            "target": 69,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 69,
+            "target": 31,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 21,
+            "target": 70,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 70,
+            "target": 71,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 71,
+            "target": 72,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 72,
+            "target": 73,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 73,
+            "target": 74,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 74,
+            "target": 31,
+            "line": "red",
+            "color": "#FF0000"
+        },
+        {
+            "source": 8,
+            "target": 75,
+            "line": "orange",
+            "color": "#FFA500"
+        },
+        {
+            "source": 75,
+            "target": 10,
+            "line": "orange",
+            "color": "#FFA500"
+        }
+
+    ]
+}
