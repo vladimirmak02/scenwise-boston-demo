@@ -3,7 +3,7 @@ import React from 'react'
 const d3 = window.d3
 let _ = require('underscore')
 let moment = require('moment')
-let delay = require('./data/amsterdam-delay.json')
+let delay = require('./data/amsterdam-delay2.json')
 let network = require('./data/amsterdam-station-network-v2.json')
 let spider = require('./data/amsterdam-spider-v2.json')
 let averageActualDelays = require('./data/amsterdam-average-actual-delays.json')
@@ -721,7 +721,8 @@ class Graph extends React.Component {
           var after = inputData[idx+1] || before;
           entrances = d3.interpolate(before.ins, after.ins)(ratio);
           turnstileEntryText.text(d3.format('0f')(d3.interpolate(before.ins_total, after.ins_total)(ratio)) + " entries/min");
-          var delay = d3.interpolate(before.delay_actual, after.delay_actual)(ratio);
+        //   var delay = d3.interpolate(before.delay_actual, after.delay_actual)(ratio);
+          var delay = before.delay_actual*(ratio);
           if (delay < 0) {
             relativeDelayText.text(d3.format('%')(-delay) + " faster");
           } else {
@@ -747,6 +748,7 @@ class Graph extends React.Component {
           });
       
           // tell the glyph to redraw
+        //   DRAWING THE COLORS OF THE LINES IN THE GLYPH
           glyph.selectAll('.connect path')
             .attr('fill', mapGlyphSegmentColor)
             .attr('d', mapGlyphSegmentVertices);
@@ -850,7 +852,7 @@ class Graph extends React.Component {
                 ids: d.link.target.id + '|' + d.link.source.id,
                 segment: [d.link.target.pos, d.link.source.pos],
                 outgoing: getLinksLeavingFromNode(d.link.source),
-                name: d.link.target.name + " to " + d.link.source.name
+                name: d.link.target.id + " to " + d.link.source.id
               };
             })
             .attr('fill', mapGlyphSegmentColor)

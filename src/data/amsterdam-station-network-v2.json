@@ -231,11 +231,21 @@
         {
             "id": "van-der-madeweg",
             "name": "Van Der Madeweg"
+        },
+        {
+            "id": "sloterdijk",
+            "name": "Sloterdijk"
         }
     ],
     "links": [
         { 
             "source": 0,
+            "target": 58,
+            "line": "green",
+            "color": "00FF00"
+        },
+        { 
+            "source": 58,
             "target": 1,
             "line": "green",
             "color": "00FF00"
