@@ -852,7 +852,7 @@ class Graph extends React.Component {
                 ids: d.link.target.id + '|' + d.link.source.id,
                 segment: [d.link.target.pos, d.link.source.pos],
                 outgoing: getLinksLeavingFromNode(d.link.source),
-                name: d.link.target.id + " to " + d.link.source.id
+                name: d.link.target.name + " to " + d.link.source.name
               };
             })
             .attr('fill', mapGlyphSegmentColor)
